@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed83f011-5482-44dc-95fb-33e9472074b9" name="Changes" comment="Add Person Class" />
+    <list default="true" id="ed83f011-5482-44dc-95fb-33e9472074b9" name="Changes" comment="Add Animal Class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659310188481</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Vehicle Class">
+      <created>1659310419148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659310419148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Animal Class">
+      <created>1659310602794</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659310602794</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,7 +93,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -88,6 +114,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Add Person Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Person Class" />
+    <MESSAGE value="Add Vehicle Class" />
+    <MESSAGE value="Add Animal Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Animal Class" />
   </component>
 </project>
